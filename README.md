@@ -1,0 +1,1 @@
+# vuexy-nextjs
